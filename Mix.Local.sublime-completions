@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Local.all_tasks()","contents":"all_tasks()"},{"trigger":"Mix.Local.append_paths()","contents":"append_paths()"},{"trigger":"Mix.Local.append_tasks()","contents":"append_tasks()"},{"trigger":"Mix.Local.tasks_path()","contents":"tasks_path()"}]}

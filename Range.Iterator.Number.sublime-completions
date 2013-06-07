@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Range.Iterator.Number.count(${1:first}, ${2:arg2})","contents":"count(${1:first}, ${2:arg2})"},{"trigger":"Range.Iterator.Number.reduce(${1:first}, ${2:arg2}, ${3:acc}, ${4:fun})","contents":"reduce(${1:first}, ${2:arg2}, ${3:acc}, ${4:fun})"}]}

@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"File.IteratorError.message(${1:exception})","contents":"message(${1:exception})"}]}

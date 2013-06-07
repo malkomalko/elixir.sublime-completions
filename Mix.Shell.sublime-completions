@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Shell.cmd(${1:command}, ${2:callback})","contents":"cmd(${1:command}, ${2:callback})"},{"trigger":"Mix.Shell.output_app?()","contents":"output_app?()"}]}

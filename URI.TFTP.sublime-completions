@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"URI.TFTP.default_port()","contents":"default_port()"},{"trigger":"URI.TFTP.parse(${1:info})","contents":"parse(${1:info})"}]}

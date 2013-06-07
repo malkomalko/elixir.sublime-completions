@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Enumerable.HashDict.count(${1:dict})","contents":"count(${1:dict})"},{"trigger":"Enumerable.HashDict.member?(${1:dict}, ${2:arg2})","contents":"member?(${1:dict}, ${2:arg2})"},{"trigger":"Enumerable.HashDict.reduce(${1:dict}, ${2:acc}, ${3:fun})","contents":"reduce(${1:dict}, ${2:acc}, ${3:fun})"}]}

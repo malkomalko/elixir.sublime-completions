@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Chars.Atom.to_binary(${1:atom})","contents":"to_binary(${1:atom})"}]}

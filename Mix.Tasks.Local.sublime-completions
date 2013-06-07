@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Local.run(${1:list1})","contents":"run(${1:list1})"}]}

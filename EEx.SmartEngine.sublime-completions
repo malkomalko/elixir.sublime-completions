@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"EEx.SmartEngine.handle_expr(${1:buffer}, ${2:mark}, ${3:expr})","contents":"handle_expr(${1:buffer}, ${2:mark}, ${3:expr})"},{"trigger":"EEx.SmartEngine.handle_text(${1:buffer}, ${2:text})","contents":"handle_text(${1:buffer}, ${2:text})"}]}

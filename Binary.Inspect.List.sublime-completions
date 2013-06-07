@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.List.inspect(${1:thing}, ${2:opts})","contents":"inspect(${1:thing}, ${2:opts})"}]}

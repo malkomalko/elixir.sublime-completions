@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Enumerable.List.count(${1:list})","contents":"count(${1:list})"},{"trigger":"Enumerable.List.member?(${1:list}, ${2:value})","contents":"member?(${1:list}, ${2:value})"},{"trigger":"Enumerable.List.reduce(${1:list1}, ${2:acc}, ${3:fun})","contents":"reduce(${1:list1}, ${2:acc}, ${3:fun})"}]}

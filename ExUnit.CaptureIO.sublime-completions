@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"ExUnit.CaptureIO.capture_io(${1:fun})","contents":"capture_io(${1:fun})"},{"trigger":"ExUnit.CaptureIO.capture_io(${1:device}, ${2:fun})","contents":"capture_io(${1:device}, ${2:fun})"},{"trigger":"ExUnit.CaptureIO.capture_io(${1:device}, ${2:input}, ${3:fun})","contents":"capture_io(${1:device}, ${2:input}, ${3:fun})"}]}

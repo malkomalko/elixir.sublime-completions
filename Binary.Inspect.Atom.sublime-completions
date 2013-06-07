@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.Atom.inspect(${1:atom}, ${2:_})","contents":"inspect(${1:atom}, ${2:_})"}]}

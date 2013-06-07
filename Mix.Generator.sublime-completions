@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Generator.create_directory(${1:path})","contents":"create_directory(${1:path})"},{"trigger":"Mix.Generator.create_file(${1:path}, ${2:contents})","contents":"create_file(${1:path}, ${2:contents})"}]}

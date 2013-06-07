@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"OptionParser.parse(${1:argv}, ${2:opts // []})","contents":"parse(${1:argv}, ${2:opts // []})"},{"trigger":"OptionParser.parse_head(${1:argv}, ${2:opts // []})","contents":"parse_head(${1:argv}, ${2:opts // []})"}]}

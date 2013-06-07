@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"Mix.SCM.available()","contents":"available()"},{"trigger":"Mix.SCM.register(${1:mod})","contents":"register(${1:mod})"},{"trigger":"Mix.SCM.register_builtin()","contents":"register_builtin()"}]}

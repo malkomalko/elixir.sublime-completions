@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"List.Chars.List.to_char_list(${1:list})","contents":"to_char_list(${1:list})"}]}

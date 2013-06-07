@@ -1,0 +1,1 @@
+{"scope":"source.elixir","completions":[{"trigger":"CaseClauseError.message(${1:exception})","contents":"message(${1:exception})"}]}
