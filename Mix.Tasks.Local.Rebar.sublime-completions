@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Local.Rebar.local_rebar_path()","contents":"local_rebar_path()"},{"trigger":"Mix.Tasks.Local.Rebar.run(${1:argv})","contents":"run(${1:argv})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Local.Rebar.local_rebar_path()","contents":"Mix.Tasks.Local.Rebar.local_rebar_path()"},{"trigger":"Mix.Tasks.Local.Rebar.run(${1:argv})","contents":"Mix.Tasks.Local.Rebar.run(${1:argv})"}]}

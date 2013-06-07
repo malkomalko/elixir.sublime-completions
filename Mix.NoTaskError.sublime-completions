@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Mix.NoTaskError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Mix.NoTaskError.message(${1:exception})","contents":"Mix.NoTaskError.message(${1:exception})"}]}

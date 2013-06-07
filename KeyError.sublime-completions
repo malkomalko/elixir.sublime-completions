@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"KeyError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"KeyError.message(${1:exception})","contents":"KeyError.message(${1:exception})"}]}

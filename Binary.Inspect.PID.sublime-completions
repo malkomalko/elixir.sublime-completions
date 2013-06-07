@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.PID.inspect(${1:pid}, ${2:_})","contents":"inspect(${1:pid}, ${2:_})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.PID.inspect(${1:pid}, ${2:_})","contents":"Binary.Inspect.PID.inspect(${1:pid}, ${2:_})"}]}

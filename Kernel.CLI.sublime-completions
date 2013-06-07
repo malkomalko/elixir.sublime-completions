@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Kernel.CLI.run(${1:fun}, ${2:halt // true})","contents":"run(${1:fun}, ${2:halt // true})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Kernel.CLI.run(${1:fun}, ${2:halt // true})","contents":"Kernel.CLI.run(${1:fun}, ${2:halt // true})"}]}

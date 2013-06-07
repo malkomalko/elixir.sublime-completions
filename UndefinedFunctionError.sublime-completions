@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"UndefinedFunctionError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"UndefinedFunctionError.message(${1:exception})","contents":"UndefinedFunctionError.message(${1:exception})"}]}

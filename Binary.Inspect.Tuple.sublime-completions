@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.Tuple.inspect(${1:tuple}, ${2:opts})","contents":"inspect(${1:tuple}, ${2:opts})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.Tuple.inspect(${1:tuple}, ${2:opts})","contents":"Binary.Inspect.Tuple.inspect(${1:tuple}, ${2:opts})"}]}

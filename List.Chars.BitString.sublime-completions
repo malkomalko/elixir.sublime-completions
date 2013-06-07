@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"List.Chars.BitString.to_char_list(${1:bitstring})","contents":"to_char_list(${1:bitstring})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"List.Chars.BitString.to_char_list(${1:bitstring})","contents":"List.Chars.BitString.to_char_list(${1:bitstring})"}]}

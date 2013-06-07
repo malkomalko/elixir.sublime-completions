@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Local.Install.run(${1:argv})","contents":"run(${1:argv})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Local.Install.run(${1:argv})","contents":"Mix.Tasks.Local.Install.run(${1:argv})"}]}

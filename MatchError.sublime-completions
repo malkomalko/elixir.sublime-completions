@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"MatchError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"MatchError.message(${1:exception})","contents":"MatchError.message(${1:exception})"}]}

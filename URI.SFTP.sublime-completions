@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"URI.SFTP.default_port()","contents":"default_port()"},{"trigger":"URI.SFTP.parse(${1:info})","contents":"parse(${1:info})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"URI.SFTP.default_port()","contents":"URI.SFTP.default_port()"},{"trigger":"URI.SFTP.parse(${1:info})","contents":"URI.SFTP.parse(${1:info})"}]}

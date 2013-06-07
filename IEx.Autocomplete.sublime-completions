@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"IEx.Autocomplete.expand(${1:expr})","contents":"expand(${1:expr})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"IEx.Autocomplete.expand(${1:expr})","contents":"IEx.Autocomplete.expand(${1:expr})"}]}

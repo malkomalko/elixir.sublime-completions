@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"ExUnit.configure(${1:options})","contents":"configure(${1:options})"},{"trigger":"ExUnit.run()","contents":"run()"},{"trigger":"ExUnit.start(${1:options // []})","contents":"start(${1:options // []})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"ExUnit.configure(${1:options})","contents":"ExUnit.configure(${1:options})"},{"trigger":"ExUnit.run()","contents":"ExUnit.run()"},{"trigger":"ExUnit.start(${1:options // []})","contents":"ExUnit.start(${1:options // []})"}]}

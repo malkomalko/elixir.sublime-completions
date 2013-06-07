@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Deps.Check.run(${1:_})","contents":"run(${1:_})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Deps.Check.run(${1:_})","contents":"Mix.Tasks.Deps.Check.run(${1:_})"}]}

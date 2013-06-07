@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.Reference.inspect(${1:ref}, ${2:_})","contents":"inspect(${1:ref}, ${2:_})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.Reference.inspect(${1:ref}, ${2:_})","contents":"Binary.Inspect.Reference.inspect(${1:ref}, ${2:_})"}]}

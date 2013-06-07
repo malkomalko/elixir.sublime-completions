@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"URI.FTP.default_port()","contents":"default_port()"},{"trigger":"URI.FTP.parse(${1:info})","contents":"parse(${1:info})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"URI.FTP.default_port()","contents":"URI.FTP.default_port()"},{"trigger":"URI.FTP.parse(${1:info})","contents":"URI.FTP.parse(${1:info})"}]}

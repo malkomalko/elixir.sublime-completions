@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"File.CopyError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"File.CopyError.message(${1:exception})","contents":"File.CopyError.message(${1:exception})"}]}

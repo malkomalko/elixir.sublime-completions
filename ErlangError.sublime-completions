@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"ErlangError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"ErlangError.message(${1:exception})","contents":"ErlangError.message(${1:exception})"}]}

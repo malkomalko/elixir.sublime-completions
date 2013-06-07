@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Compile.Leex.run(${1:args})","contents":"run(${1:args})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Mix.Tasks.Compile.Leex.run(${1:args})","contents":"Mix.Tasks.Compile.Leex.run(${1:args})"}]}

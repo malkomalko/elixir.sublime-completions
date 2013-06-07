@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Kernel.ParallelRequire.files(${1:files}, ${2:callback // default_callback})","contents":"files(${1:files}, ${2:callback // default_callback})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Kernel.ParallelRequire.files(${1:files}, ${2:callback // default_callback})","contents":"Kernel.ParallelRequire.files(${1:files}, ${2:callback // default_callback})"}]}

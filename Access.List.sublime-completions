@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Access.List.access(${1:list}, ${2:key})","contents":"access(${1:list}, ${2:key})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Access.List.access(${1:list}, ${2:key})","contents":"Access.List.access(${1:list}, ${2:key})"}]}

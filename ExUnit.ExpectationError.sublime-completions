@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"ExUnit.ExpectationError.full_reason(${1:exception})","contents":"full_reason(${1:exception})"},{"trigger":"ExUnit.ExpectationError.message(${1:exception})","contents":"message(${1:exception})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"ExUnit.ExpectationError.full_reason(${1:exception})","contents":"ExUnit.ExpectationError.full_reason(${1:exception})"},{"trigger":"ExUnit.ExpectationError.message(${1:exception})","contents":"ExUnit.ExpectationError.message(${1:exception})"}]}

@@ -1,1 +1,1 @@
-{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.HashDict.inspect(${1:dict}, ${2:opts})","contents":"inspect(${1:dict}, ${2:opts})"}]}
+{"scope":"source.elixir","completions":[{"trigger":"Binary.Inspect.HashDict.inspect(${1:dict}, ${2:opts})","contents":"Binary.Inspect.HashDict.inspect(${1:dict}, ${2:opts})"}]}
